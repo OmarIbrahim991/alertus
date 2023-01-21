@@ -1,7 +1,9 @@
+import Main from './pages/main'
+
 const App = () => {
 	return (
 		<div className="App">
-			Hello
+			<Main />
 		</div>
 	)
 }
